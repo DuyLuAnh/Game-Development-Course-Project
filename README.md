@@ -9,6 +9,12 @@ BomberGuy is a 2D pirate-themed Bomberman game built with Unity.
 - 2D gameplay
 - Demo version
 
+## Control
+- MOVE : WASD or Arrow keys
+- PLANT BOOM: Z
+- JUMP: SPACE
+- PAUSE: ESC
+
 ## Download
 Download the Windows demo ZIP in https://github.com/DuyLuAnh/Game-Development-Course-Project/releases/tag/1.0 , extract it, and run `Runner.exe`.
 
